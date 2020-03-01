@@ -6,7 +6,6 @@ import { CSVLink } from 'react-csv'
 import Field from '../components/Field'
 import { camelize } from '../utils/camelize'
 import { validate } from '../utils/validatation'
-import { percentage } from '../utils/percentage'
 
 var INITIALVALUES = {}
 
