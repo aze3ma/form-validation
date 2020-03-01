@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+After you fill the whole form and hit submit you will get a csv file to download
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -11,6 +13,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
+
+### `yarn server`
+Runs the app dummy json server for fetching the fields data
 
 ### `yarn test`
 
